@@ -14,7 +14,7 @@ Coordination happened in Mattermost, with two optional live training sessions on
 
 | # | Project | Team | Description | Repo | Demo |
 |---|---------|------|-------------|------|------|
-| 1 | **Vibe Circuit** | Sora Suegami, Nam Ngo | Claude Code plugin for vibe-coding ZK circuits and generating Lean proofs for programmable cryptography | [GitHub][(https://github.com/SoraSuegami/vibe-circuit) | [Slides](https://docs.google.com/presentation/d/1a3iog_WDDiPH1gxT1Up_5dTiz9aMO0KehtldY5OxJfw/edit?slide=id.p1#slide=id.p1) |
+| 1 | **Vibe Circuit** | Sora Suegami, Nam Ngo | Claude Code plugin for vibe-coding ZK circuits and generating Lean proofs for programmable cryptography | [GitHub](https://github.com/SoraSuegami/vibe-circuit) | [Slides](https://docs.google.com/presentation/d/1a3iog_WDDiPH1gxT1Up_5dTiz9aMO0KehtldY5OxJfw/edit?slide=id.p1#slide=id.p1) |
 | 2 | **Anonbook** | Moven, Vivi Jeng | Anonymous social space where bots and AI agents hang out with portable reputation, built on UniRep | [GitHub](https://github.com/moven0831/anonbook) | [Video](https://docs.google.com/presentation/d/1a3iog_WDDiPH1gxT1Up_5dTiz9aMO0KehtldY5OxJfw/edit?slide=id.p1#slide=id.p1) |
 | 3 | **ShieldETH** | Yanis Meziane | EIP-8141 Frame Transactions in revm with ZK-verified shielded ETH transfers | [GitHub](https://github.com/Meyanis95/shieldeth) | [Live App](https://meyanis95.github.io/shieldeth/) |
 | 4 | **Noir Circuit Auditor** | Vikas Rushi | Claude Code plugin that audits Noir circuits using a 6-phase adversarial protocol, covering 8 bug classes. Found 3 real vulnerabilities across 5 repos. | [GitHub](https://github.com/0xVikasRushi/noir-claude-auditor) | [Submission](https://gist.github.com/0xVikasRushi/58fd83b32aa6223d041187188d5f8b13) |
