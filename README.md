@@ -39,16 +39,6 @@ Vibecoding means building software primarily through AI assistants — Claude, C
 
 - **Judging session** (Wed Mar 11, 13:00 UTC): [Watch recording](https://drive.google.com/file/d/1WAX9W6bi_1VV5AQD8JxE9X987WqKaJmE/view)
 
-## Judging Criteria
-
-| Criterion | Weight | Description |
-|-----------|--------|-------------|
-| Usefulness | 30% | Does this solve a real problem? Would people actually use it? |
-| Working demo | 25% | Does it work? Can you show it running? |
-| Creativity | 20% | Is the idea novel or surprising? |
-| Implementation quality | 15% | Is the code reasonable? Could someone pick this up after the hackathon? |
-| Presentation | 10% | Was the demo clear and compelling? |
-
 ## About PSE
 
 [Privacy & Scaling Explorations](https://pse.dev) is a research and development lab within the Ethereum Foundation, focused on building infrastructure for privacy-preserving technologies — zero-knowledge proofs, multi-party computation, and related cryptographic tools.
