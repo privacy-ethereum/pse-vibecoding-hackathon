@@ -35,10 +35,6 @@ Vibecoding means building software primarily through AI assistants — Claude, C
 
 > John Guilding also explored 3 additional projects: [Private Prediction Market (Noir)](https://github.com/JohnGuilding/private-prediction-market-noir), [Canton on Base](https://github.com/JohnGuilding/canton-eth-base), [Canton on Aztec](https://github.com/JohnGuilding/canton-eth-aztec)
 
-## Recordings
-
-- **Judging session** (Wed Mar 11, 13:00 UTC): [Watch recording](https://drive.google.com/file/d/1WAX9W6bi_1VV5AQD8JxE9X987WqKaJmE/view)
-
 ## About PSE
 
 [Privacy & Scaling Explorations](https://pse.dev) is a research and development lab within the Ethereum Foundation, focused on building infrastructure for privacy-preserving technologies — zero-knowledge proofs, multi-party computation, and related cryptographic tools.
